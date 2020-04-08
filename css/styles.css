@@ -1,3 +1,37 @@
-h1 {
-    color: grey;
+img {
+    float: left;
+  }
+
+  body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    border-style: solid;
+    color: #555;
 }
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2{text-align: center;
+    color: #555}
+
+h3{text-align: center;
+    color: #555}
+
+    p {
+        color: #555;
+        text-align: justify;
+        padding-left: 10px;
+    }
+
+    #skills{
+        color:blue;
+        text-align: justify;
+        padding-left: 10px;
+        background-color:rgb(236, 226, 226);
+    }
